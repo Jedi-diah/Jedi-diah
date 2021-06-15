@@ -1,9 +1,8 @@
 <ul>
 <li>Hi, I’m @Jedi-diah (learned @Jedidiah was no longer available!); and I'm a newbie</li>
 <li>I’m interested in web design and app development</li>
-<li>I’m currently learning JavaScript at freeCodeCamp.org</a></li>
+<li>I’m currently learning JavaScript at freeCodeCamp.org</li>
 <li>You can reach me at olumideojelabi@gmail.com</li>
-<li>You can also find my web design projects on codepen</a></li>
 </ul>
 
 <!---
